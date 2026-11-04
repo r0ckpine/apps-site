@@ -88,8 +88,8 @@ A. アプリ内の「設定」→「HoverTick Pro」→「購入を復元」を�
 
 ### バージョン情報
 
-- 最新バージョン: 1.0
-- 対応OS: iOS 26.0以降
+- 最新バージョン: 1.0.0
+- 対応OS: iOS 26.0以降、iPadOS 26.0以降(iPhone、iPad)
 
 ---
 
@@ -181,5 +181,5 @@ Tap Select and choose records to use the actions at the bottom of the screen:
 
 ### Version Info
 
-- Latest version: 1.0
-- Requires: iOS 26.0 or later
+- Latest version: 1.0.0
+- Requires: iOS 26.0 or later, iPadOS 26.0 or later (iPhone and iPad)
